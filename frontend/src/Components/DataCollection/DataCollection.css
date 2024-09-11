@@ -1,0 +1,47 @@
+.DataCollection{
+    padding-top: 50px;
+    background-color: rgb(8, 8, 80);
+    color: #fff;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+/* .DataCollection h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .DataCollection p {
+    font-size: 30px;
+  }
+   */
+  /* .DataCollection p b{
+    color: rgb(226, 119, 137);
+  } */
+  
+  /* .dataAnalysisCard{
+    height: 690px;
+    width: 690px;
+    margin: auto;
+  }  */
+  /* .btn {
+    background-color: #007bff; 
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px; 
+    min-width: 120px;
+    max-width: 200px;
+    margin: 0 auto; 
+  } */
+  
+  
+/*---------------------------Media Query-------------*/
+/* @media(max-width: 1200px){
+   .DataCollection{
+      width: 600px;
+      height: 500px;
+   }    
+} */

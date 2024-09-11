@@ -1,0 +1,119 @@
+.reports{
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+    width: 100%;
+    /* margin: auto; */
+    display:flex;
+    /* padding-right: 400px; */
+    flex-direction: column;
+    align-items: center;
+    min-width: 1000px;
+    justify-content: center;
+}
+
+
+
+.input-wrappers { /* Changed class name to plural */
+    display: flex; /* Add display: flex to make input wrappers inline */
+    gap: 10px; /* Adjust gap as needed for spacing between input wrappers */
+  }
+  
+.input-wrapper{
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    height: 2.5rem;
+    padding: 0 15px;
+    box-shadow: 0px 0px 8px #ddd;
+    display: flex;
+    align-items: center;
+}
+
+.input-wrapper1{
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    height: 2.5rem;
+    padding: 0 15px;
+    box-shadow: 0px 0px 8px #ddd;
+    display: flex;
+    align-items: center;
+}
+
+
+input{
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+    margin-left: 5px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.tableData{
+  height: 10vh;
+  text-align: center;
+  width: 10vw; /* Ensure the table fills the container width */
+  border-collapse: collapse; /* Remove spacing between table cells */
+  margin-top: 20px;
+  margin-left: auto;
+}
+
+
+/* .tableData th,
+.tableData td { 
+  border: 1px solid #ddd; 
+  text-align: center; 
+  padding: 10px;
+  }
+ */
+
+ .tableData th,
+ .tableData td {
+   border: 1px solid #ddd;
+   padding: 2px 5px 5px 120px;
+   justify-content: center;
+ }
+
+/*-------------------------------Media Query-------------------*/
+
+@media (max-width: 840px) {
+    /* Styles for mobile screens (max-width 768px) */
+    .input-wrapper {
+      width: 200px; /* Make the wrapper full width on mobile */
+    }
+  }
+  
+@media (max-width: 768px) {
+    /* Styles for mobile screens (max-width 768px) */
+    .input-wrapper {
+      width: 200px; /* Make the wrapper full width on mobile */
+    }
+  }
+  
+
+  @media (max-width: 650px) {
+    /* Styles for mobile screens (max-width 768px) */
+    .input-wrapper {
+      width: 200px; /* Make the wrapper full width on mobile */
+    }
+  }
+  
+  @media (max-width: 520px) {
+    /* Styles for mobile screens (max-width 768px) */
+    .input-wrapper {
+      width: 200px; /* Make the wrapper full width on mobile */
+    }
+  }
+  
+  @media (max-width: 470px) {
+    /* Styles for mobile screens (max-width 768px) */
+    .input-wrapper {
+      width: 200px; /* Make the wrapper full width on mobile */
+    }
+  }
+  

@@ -1,0 +1,98 @@
+[
+    {
+      "SwingStates": "Georgia",
+      "TotalNumberofMuslimPopulation": 123652,
+      "PercentageofMuslimPopulation": 0.011,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 2461854,
+      "TotalNumberofDemocraticVotes": 2473633,
+      "TotalNumberofRegisteredVotersInState": 7077269,
+      "PercentageofRegisteredVoters": 0.635,
+      "diff_result": 11779,
+      "comparison_result": 111873
+    },
+    {
+      "SwingStates": "Arizona",
+      "TotalNumberofMuslimPopulation": 109765,
+      "PercentageofMuslimPopulation": 0.015,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 1661686,
+      "TotalNumberofDemocraticVotes": 1672143,
+      "TotalNumberofRegisteredVotersInState": 4378251,
+      "PercentageofRegisteredVoters": 0.584,
+      "diff_result": 10457,
+      "comparison_result": 99308
+    },
+    {
+      "SwingStates": "Michigan",
+      "TotalNumberofMuslimPopulation": 241828,
+      "PercentageofMuslimPopulation": 0.024,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 2649852,
+      "TotalNumberofDemocraticVotes": 2804040,
+      "TotalNumberofRegisteredVotersInState": 8103282,
+      "PercentageofRegisteredVoters": 0.807,
+      "diff_result": 154188,
+      "comparison_result": 87640
+    },
+    {
+      "SwingStates": "Wisconsin",
+      "TotalNumberofMuslimPopulation": 68699,
+      "PercentageofMuslimPopulation": 0.012,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 1610184,
+      "TotalNumberofDemocraticVotes": 1630866,
+      "TotalNumberofRegisteredVotersInState": 3493576,
+      "PercentageofRegisteredVoters": 0.589,
+      "diff_result": 20682,
+      "comparison_result": 48017
+    },
+    {
+      "SwingStates": "Pennsylvania",
+      "TotalNumberofMuslimPopulation": 149561,
+      "PercentageofMuslimPopulation": 0.012,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 3377674,
+      "TotalNumberofDemocraticVotes": 3458229,
+      "TotalNumberofRegisteredVotersInState": 8729159.350000001,
+      "PercentageofRegisteredVoters": 0.674,
+      "diff_result": 80555,
+      "comparison_result": 69006
+    },
+    {
+      "SwingStates": "North Carolina",
+      "TotalNumberofMuslimPopulation": 130661,
+      "PercentageofMuslimPopulation": 0.013,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 2684292,
+      "TotalNumberofDemocraticVotes": 2758773,
+      "TotalNumberofRegisteredVotersInState": 7364236.407000001,
+      "PercentageofRegisteredVoters": 0.671,
+      "diff_result": 74481,
+      "comparison_result": 56180
+    },
+    {
+      "SwingStates": "Nevada",
+      "TotalNumberofMuslimPopulation": 7400,
+      "PercentageofMuslimPopulation": 0.002,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 669890,
+      "TotalNumberofDemocraticVotes": 703486,
+      "TotalNumberofRegisteredVotersInState": 2109581.667,
+      "PercentageofRegisteredVoters": 0.657,
+      "diff_result": 33596,
+      "comparison_result": -26196
+    },
+    {
+      "SwingStates": "Virginia ",
+      "TotalNumberofMuslimPopulation": 169371,
+      "PercentageofMuslimPopulation": 0.02,
+      "TotalNumberofEligibileMuslimVoters": "Could not find",
+      "TotalNumberofRepublicanVotes": 1962430,
+      "TotalNumberofDemocraticVotes": 2413568,
+      "TotalNumberofRegisteredVotersInState": 6039084.93,
+      "PercentageofRegisteredVoters": 0.69,
+      "diff_result": 451138,
+      "comparison_result": -281767
+    }
+  ]

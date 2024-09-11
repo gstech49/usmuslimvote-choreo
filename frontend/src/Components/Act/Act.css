@@ -1,0 +1,38 @@
+.Act{
+    padding-top: 50px;
+    background-color: rgb(8, 8, 80);
+    color: #fff;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.Act form {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Act form label {
+    margin-right: 10px;
+  }
+  
+  .Act form input {
+    padding: 5px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    width: 20%; /* Adjust width as needed */
+  }
+
+  .Act form textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    width: 20%; /* Set width to 100% for full container width */
+    min-height: 100px; /* Set a minimum height for the textarea */
+    resize: vertical; /* Allow users to resize the textarea vertically */
+  }
+  

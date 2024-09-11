@@ -1,0 +1,136 @@
+
+.goal-text{
+    max-width: 1300px;
+    width: 100%;
+    margin: auto;
+}
+
+.goal{    
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 260px;
+}
+
+h1{
+    font-size: 30px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.goals{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.goal-container{
+    flex: 0 0 calc(33.33% - 20px);
+    max-width: calc(100% - 20px);
+    width: 100%;
+    height: 20vh;
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: .3s;
+    border: 2px solid transparent;
+}
+
+.goal-container:hover{
+    border-color: #1d39c4;
+
+}
+
+  .goal-container img{
+    width: 25px;
+    margin-left: 5px;
+  }
+
+  
+
+  .goal a, .goal img {
+    display: inline-block;
+  }
+  
+  /*---------------------------------------Media Query--------------------------------*/
+
+  @media (max-width: 850px){
+    .goals{
+        flex-direction: column;
+    }
+    .goal{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+  }
+
+
+  /* @media (max-width: 750px) {
+    .goal{
+        flex-direction: column;
+    }    
+    .goals{
+        flex-basis: 80%;
+        margin: 30px;
+    }
+    .goal h3{
+        font-size: 18px;
+        text-align: center;
+    }
+    .goal p{
+        font-size: 12px;
+        text-align: center;
+    }
+
+  }
+  @media (max-width: 650px) {
+    .goal{
+        flex-direction: column;
+    }    
+    .goals{
+        flex-basis: 50%;
+        margin: 10px;
+    }
+
+  }
+
+  @media (max-width: 520px) {
+    .goal{
+        flex-direction: column;
+    }    
+    .goal h3{
+        font-size: 18px;
+        text-align: center;
+    }
+    .goal p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .goals{
+        flex-basis: 50%;
+        margin: 2px;
+    }
+
+  }
+
+
+  @media (max-width: 470px) {
+    .goal{
+        flex-direction: column;
+    }    
+    .goal h3{
+        font-size: 18px;
+        text-align: center;
+    }
+    .goal p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .goals{
+        flex-basis: 50%;
+        margin: 2px;
+    }
+
+  } */
